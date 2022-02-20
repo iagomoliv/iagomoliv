@@ -9,6 +9,6 @@ I'm a Forest Engineer from Brazil 🇧🇷 working as a Spatial Data Scientist.
 
 M.Sc. Student in Forest Management at [UFLA](https://ufla.br/), Brazil.
 
-[Google Earth Engine](https://earthengine.google.com/) enthusiast.
+[Google Earth Engine](https://earthengine.google.com/) user.
 
 Here is my [portfolio](https://github.com/iagomoliv/portfolio).
